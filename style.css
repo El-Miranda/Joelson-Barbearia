@@ -94,6 +94,8 @@ nav {
 /* ─── HERO SLIDER ─────────────────────────────────── */
 #hero {
   height: 100vh;
+  max-height: 700px;
+  width: 100%;
   position: relative;
   overflow: hidden;
 }
@@ -225,6 +227,7 @@ nav {
 .parallax-section {
   position: relative;
   overflow: hidden;
+  
 }
 
 .parallax-bg {
@@ -306,6 +309,7 @@ nav {
 /* ─── PARALLAX BAND ───────────────────────────────── */
 #parallax-band {
   height: 400px;
+  width: 100%;
   position: relative;
   overflow: hidden;
 }
